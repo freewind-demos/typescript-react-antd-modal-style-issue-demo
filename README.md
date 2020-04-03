@@ -1,4 +1,4 @@
-TypeScript React AntDesign Table Demo
+TypeScript React AntDesign Modal Demo
 =================================
 
 ```
