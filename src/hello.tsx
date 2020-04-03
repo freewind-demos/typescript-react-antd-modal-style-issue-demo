@@ -20,7 +20,6 @@ export default function Hello() {
       }}
     >
       <p>Some content</p>
-      <Hello/>
     </Modal>
   </div>
 };

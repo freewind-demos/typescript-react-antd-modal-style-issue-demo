@@ -1,7 +1,13 @@
-TypeScript React AntDesign Modal Demo
+TypeScript React AntDesign Modal Style Issue Demo
 =================================
 
-注意：html中顶部声明`<!DOCTYPE html>`一定要有，否则Modal右上角的x位置会有错误
+如果在html中顶部没有声明`<!DOCTYPE html>`，则Modal右上角的x位置会有错误（偏上）
+
+![wrong](./images/wrong.png)
+
+添加之后，则正常：
+
+![wrong](./images/correct.png)
 
 ```
 npm install
